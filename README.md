@@ -101,3 +101,7 @@ Methods:
 make_payment(amount): Processes payment for the specified amount.
 view_payment_history(): Displays the payment history for all reservations.
 calculate_total(): Calculates the total cost of a reservation based on the number of nights and room price.
+
+dileeeeeeeeeeeeeeee
+xxxxxxxxxxxxxxxxxxxxx
+cdddddddwedcv
