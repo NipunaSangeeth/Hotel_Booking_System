@@ -105,3 +105,5 @@ calculate_total(): Calculates the total cost of a reservation based on the numbe
 dileeeeeeeeeeeeeeee
 xxxxxxxxxxxxxxxxxxxxx
 cdddddddwedcv
+
+new update
